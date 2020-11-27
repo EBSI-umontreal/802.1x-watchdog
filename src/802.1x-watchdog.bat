@@ -1,0 +1,1 @@
+START /WAIT "" powershell.exe -ExecutionPolicy Bypass -NoLogo -File "%ProgramFiles(x86)%\EBSI\802.1x-watchdog\802.1x-watchdog.ps1"
